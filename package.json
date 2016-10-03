@@ -7,5 +7,9 @@
     "start": "webpack-dev-server"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-router": "^2.8.1"
+  }
 }
